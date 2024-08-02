@@ -28,7 +28,7 @@
 
 ## Kontakt
 
-- 📫 Email: example@example.com
+- Możesz ze mną się skontaktować na discordzie **Nick:Z1emniakPL**
 
 ---
 
