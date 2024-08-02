@@ -1,36 +1,37 @@
-# 🌟 Witaj na moim profilu Discord! 🌟
+<h1 align="center">🌟 Witaj na moim profilu GitHub! 🌟</h1>
 
-> **Z1emniakPL**
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
+  <img src="https://img.shields.io/github/followers/twojanazwa?style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/twojanazwa?style=social" alt="GitHub Stars">
+</p>
 
-## 🎮 O mnie:
-Jestem pasjonatem gier komputerowych i technologii. Lubię spędzać czas na rozmowach z innymi i eksplorowaniu nowych gier.
+## O mnie
 
-## 🕹️ Moje zainteresowania:
-- 🎨 Grafika komputerowa
-- 💻 Programowanie
-- 🎵 Muzyka
-- 🎮 Gry komputerowe
+👋 Cześć! Jestem [Twoje Imię] (@TwojaNazwa), pasjonatem programowania i technologii.
 
-## 🎯 Gry, w które gram:
-- **Minecraft**
-- **Valorant**
-- **Among Us**
+- 🎨 Uwielbiam tworzyć kreatywne projekty.
+- 💻 Programuję głównie w: **JavaScript**, **Python**, **C++**.
+- 🎵 W wolnym czasie gram na gitarze i słucham muzyki.
 
-## 🔰 Role na serwerach:
-- **Moderator** na serwerze [Serwer XYZ]
-- **Członek** na serwerze [Serwer ABC]
-- **Administrator** na serwerze [Serwer 123]
+## Technologie
 
-## 📫 Kontakt:
-- **Email:** example@example.com
-- **Twitter:** [@example](https://twitter.com/example)
-- **Instagram:** [@example](https://www.instagram.com/example)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-## 🌟 Cytaty, które lubię:
-> "Najlepszym sposobem na przewidzenie przyszłości jest jej tworzenie." - Peter Drucker
+## Projekty
 
-> "Nie przestajemy się bawić, ponieważ się starzejemy; starzejemy się, ponieważ przestajemy się bawić." - George Bernard Shaw
+### 🔥 Najnowsze projekty:
+- [BW]([https://github.com/twojanazwa/projekt1](https://github.com/Z1emniakPL/bw.pl)) - Moja przeglądarka internetowa.
+- [File terminal](https://github.com/Z1emniakPL/file-terminal) - Terminal plików.
+
+## Kontakt
+
+- 📫 Email: example@example.com
 
 ---
 
-Jeśli masz jakieś pytania, chcesz pograć razem lub po prostu porozmawiać, śmiało napisz! 🎉
+Jeśli masz pytania, chcesz współpracować nad projektem, lub po prostu porozmawiać, nie wahaj się ze mną skontaktować! 🎉
