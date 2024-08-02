@@ -28,7 +28,7 @@
 
 ## Kontakt
 
-- - Discord: [Z1emniakPL](https://discord.com/users/624624090866778112) - Kliknij, aby sprawdzić status lub wysłać wiadomość.
+- - Discord: [Z1emniakPL](https://discord.com/users/624624090866778112)
 
 ---
 
