@@ -1,6 +1,6 @@
 # 🌟 Witaj na moim profilu Discord! 🌟
 
-> **Username#1234**
+> **Z1emniakPL**
 
 ## 🎮 O mnie:
 Jestem pasjonatem gier komputerowych i technologii. Lubię spędzać czas na rozmowach z innymi i eksplorowaniu nowych gier.
