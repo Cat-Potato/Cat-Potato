@@ -28,7 +28,7 @@
 
 ## Kontakt
 
-- Możesz ze mną się skontaktować na discordzie.
+- - Discord: [Twój ID Discord](https://discord.com/users/624624090866778112) - Kliknij, aby sprawdzić status lub wysłać wiadomość.
 
 ---
 
