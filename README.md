@@ -28,7 +28,7 @@
 
 ## Kontakt
 
-- Możesz ze mną się skontaktować na discordzie **Nick:Z1emniakPL**
+- Możesz ze mną się skontaktować na discordzie.
 
 ---
 
