@@ -11,7 +11,7 @@
 👋 Cześć! Jestem Z1emniakPL (@Z1emniakPL), pasjonatem programowania i technologii.
 
 - 🎨 Uwielbiam tworzyć kreatywne projekty.
-- 💻 Programuję głównie w: **Python**, **Visual basic**.
+- 💻 Programuję głównie w: **Python**.
 - 🎵 W wolnym czasie gram na gitarze i słucham muzyki.
 
 ## Technologie
