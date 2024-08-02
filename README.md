@@ -8,10 +8,10 @@
 
 ## O mnie
 
-👋 Cześć! Jestem [Twoje Imię] (@TwojaNazwa), pasjonatem programowania i technologii.
+👋 Cześć! Jestem Z1emniakPL (@Z1emniakPL), pasjonatem programowania i technologii.
 
 - 🎨 Uwielbiam tworzyć kreatywne projekty.
-- 💻 Programuję głównie w: **JavaScript**, **Python**, **C++**.
+- 💻 Programuję głównie w: **Python**, **Visual basic**.
 - 🎵 W wolnym czasie gram na gitarze i słucham muzyki.
 
 ## Technologie
