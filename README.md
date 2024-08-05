@@ -12,7 +12,6 @@
 
 - 🎨 Uwielbiam tworzyć kreatywne projekty.
 - 💻 Programuję głównie w: **Python**.
-- 🎵 W wolnym czasie gram słucham muzyki.
 
 ## Technologie
 
