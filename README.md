@@ -23,8 +23,8 @@
 ## Projekty
 
 ### 🔥 Najnowsze projekty:
-- [BW](https://github.com/Z1emniakPL/bw.pl) - Moja przeglądarka internetowa.
-- [File terminal](https://github.com/Z1emniakPL/file-terminal) - Terminal plików.
+- [GitHub-Repository-Search](https://github.com/Z1emniakPL/GitHub-Repository-Search)
+- [GitHub-Repo-Library-Installer](https://github.com/Z1emniakPL/GitHub-Repo-Library-Installer)
 
 ## Kontakt
 
