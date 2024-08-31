@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img https://discord.com/users/624624090866778112 src="https://lanyard.cnrad.dev/api/624624090866778112" width="85%">
+  <img https://discord.com/users/624624090866778112 src="https://lanyard.cnrad.dev/api/624624090866778112" width="75%">
 </p>
 
 ## O mnie
