@@ -31,7 +31,7 @@
 
 ## Kontakt
 
-- Discord: [Z1emniakPL](https://discord.com/users/624624090866778112)
+- Discord: [Cat Potato](https://discord.com/users/624624090866778112)
 
 ---
 
