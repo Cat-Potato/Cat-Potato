@@ -55,27 +55,41 @@
 </head>
 <body>
     <div class="container">
-        <h1>Najlepsze Ziemniaki</h1>
+        <h1>Odtwarzacz Muzyki</h1>
         <audio id="myAudio" controls>
             <source src="najzie.mp3" type="audio/mpeg">
             Twoja przeglądarka nie obsługuje elementu audio.
         </audio>
         <div class="author">
-            <p>Autor: Cat Potato</p>
+            <p>Autor: Jan Kowalski</p>
         </div>
     </div>
 
     <script>
         const text = "Ziemniaki najlepsze";
         let index = 0;
+        let isDeleting = false;
 
         function typeTitle() {
-            document.title = text.substring(0, index + 1);
-            index++;
-
-            if (index < text.length) {
-                setTimeout(typeTitle, 200);
+            if (!isDeleting && index <= text.length) {
+                
+                document.title = text.substring(0, index + 1);
+                index++;
+            } else if (isDeleting && index >= 0) {
+                // Usuwanie tekstu
+                document.title = text.substring(0, index);
+                index--;
             }
+
+            if (index === text.length) {
+                isDeleting = true;
+            } else if (index === 0 && isDeleting) {
+                isDeleting = false;
+            }
+
+
+            const speed = isDeleting ? 100 : 200;
+            setTimeout(typeTitle, speed);
         }
 
         window.onload = typeTitle;
