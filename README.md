@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/github/stars/Z1emniakPL?style=social" alt="GitHub Stars">
 </p>
 
-<h1><img href="https://discord.com/users/624624090866778112" src=https://lanyard.cnrad.dev/api/624624090866778112 width="45%"></h1>
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/624624090866778112" width="45%">
+</p>
 
 ## O mnie
 
