@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
-  <img src="https://img.shields.io/github/followers/Z1emniakPL?style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/Z1emniakPL?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/followers/Cat-Potato?style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/Cat-Potato?style=social" alt="GitHub Stars">
 </p>
 
 <p align="center">
