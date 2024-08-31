@@ -28,7 +28,7 @@
             width: 100%;
             border-radius: 10px;
             outline: none;
-            margin-bottom: 20px; /* Odstęp między audio a przyciskiem */
+            margin-bottom: 20px;
         }
         button {
             background-color: #ff5722;
@@ -71,15 +71,14 @@
         let index = 0;
 
         function typeTitle() {
-            document.title = text.substring(0, index + 1); // Dodaje kolejne litery
+            document.title = text.substring(0, index + 1);
             index++;
 
             if (index < text.length) {
-                setTimeout(typeTitle, 200); // Opóźnienie 200 ms pomiędzy literami
+                setTimeout(typeTitle, 200);
             }
         }
 
-        // Rozpoczęcie animacji po załadowaniu strony
         window.onload = typeTitle;
     </script>
 </body>
