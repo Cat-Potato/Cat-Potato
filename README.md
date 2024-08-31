@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/github/stars/Z1emniakPL?style=social" alt="GitHub Stars">
 </p>
 
+<img href="https://discord.com/users/624624090866778112" src=https://lanyard.cnrad.dev/api/624624090866778112 width="45%">
+
 ## O mnie
 
 👋 Cześć! Jestem Z1emniakPL (@Z1emniakPL), pasjonatem programowania i technologii.
