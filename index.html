@@ -6,10 +6,10 @@
     <title>Odtwarzacz muzyki</title>
 </head>
 <body>
-    <h1>Odtwarzacz muzyki</h1>
-    <audio controls autoplay>
+    <audio id="myAudio">
         <source src="najzie.mp3" type="audio/mpeg">
         Twoja przeglądarka nie obsługuje elementu audio.
     </audio>
+    <button onclick="document.getElementById('myAudio').play()">Odtwórz</button>
 </body>
 </html>
