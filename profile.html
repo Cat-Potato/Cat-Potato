@@ -6,40 +6,60 @@
     <title>Profil GitHub - Cat Potato</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f9f9f9;
             color: #333;
             margin: 0;
             padding: 0;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #333;
+            margin-top: 0;
         }
         h1 {
             text-align: center;
-            color: #4CAF50;
+            color: #ff6f61;
+            font-size: 2.5em;
             margin-top: 20px;
         }
-        p {
-            text-align: center;
+        h2 {
+            color: #ff6f61;
+            border-bottom: 2px solid #ff6f61;
+            padding-bottom: 5px;
         }
-        .badges {
-            text-align: center;
+        h3 {
+            color: #555;
             margin-top: 10px;
         }
-        .badges img {
-            margin: 5px;
+        p, ul {
+            text-align: center;
         }
-        .lanyard {
-            display: flex;
-            justify-content: center;
-            margin: 20px 0;
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        .badges, .lanyard, .content {
+            text-align: center;
+            margin: 20px auto;
+        }
+        .badges img {
+            margin: 10px;
+        }
+        .lanyard img {
+            border-radius: 8px;
         }
         .content {
             width: 80%;
-            max-width: 900px;
-            margin: 0 auto;
-            background-color: #fff;
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #ffffff;
             padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
         }
         .technologies, .projects {
             margin: 20px 0;
@@ -48,15 +68,19 @@
             margin-right: 10px;
             vertical-align: middle;
         }
-        .contact {
-            margin: 20px 0;
-        }
-        a {
-            color: #4CAF50;
+        .contact a {
+            color: #ff6f61;
             text-decoration: none;
+            font-weight: bold;
         }
-        a:hover {
+        .contact a:hover {
             text-decoration: underline;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
         }
     </style>
 </head>
@@ -66,8 +90,8 @@
 
     <div class="badges">
         <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
-        <img src="https://img.shields.io/github/followers/Z1emniakPL?style=social" alt="GitHub Followers">
-        <img src="https://img.shields.io/github/stars/Z1emniakPL?style=social" alt="GitHub Stars">
+        <img src="https://img.shields.io/github/followers/Cat-Potato?style=social" alt="GitHub Followers">
+        <img src="https://img.shields.io/github/stars/Cat-Potato?style=social" alt="GitHub Stars">
     </div>
 
     <div class="lanyard">
@@ -107,7 +131,7 @@
     </div>
 
     <footer>
-        <p style="text-align: center;">Jeśli masz pytania, chcesz współpracować nad projektem, lub po prostu porozmawiać, nie wahaj się ze mną skontaktować! 🎉</p>
+        <p>Jeśli masz pytania, chcesz współpracować nad projektem, lub po prostu porozmawiać, nie wahaj się ze mną skontaktować! 🎉</p>
     </footer>
 
 </body>
