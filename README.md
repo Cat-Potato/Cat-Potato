@@ -12,7 +12,7 @@
 
 ## O mnie
 
-👋 Cześć! Jestem Z1emniakPL (@Z1emniakPL), pasjonatem programowania i technologii.
+👋 Cześć! Jestem Cat Potato (@catt_potato ), pasjonatem programowania i technologii.
 
 - 🎨 Uwielbiam tworzyć kreatywne projekty.
 - 💻 Programuję głównie w: **Python**.
