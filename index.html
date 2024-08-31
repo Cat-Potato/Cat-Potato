@@ -27,9 +27,15 @@
             font-weight: bold;
             animation: fadeInDown 1s ease;
         }
-        nav {
+        .main-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: calc(100vh - 140px); /* Wysokość widoku minus nagłówek i stopka */
             text-align: center;
-            margin: 40px 0;
+        }
+        nav {
+            margin: 0;
         }
         nav a {
             display: inline-block;
@@ -86,10 +92,12 @@
         <h1>Witaj na mojej stronie!</h1>
     </header>
 
-    <nav>
-        <a href="profile.html">Profil</a>
-        <a href="zienaj.html">Zienaj</a>
-    </nav>
+    <div class="main-content">
+        <nav>
+            <a href="profile.html">Profil</a>
+            <a href="zienaj.html">Zienaj</a>
+        </nav>
+    </div>
 
     <footer>
         <p>&copy; 2024 Cat Potato. Wszystkie prawa zastrzeżone.</p>
