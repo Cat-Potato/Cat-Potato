@@ -3,18 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Odtwarzacz muzyki</title>
-</head>
-<body>
-    <audio id="myAudio">
-        <source src="najzie.mp3" type="audio/mpeg">
-        Twoja przeglądarka nie obsługuje elementu audio.
-    </audio>
-    <p align="center"><button onclick="document.getElementById('myAudio').play()">Odtwórz</button></p><!DOCTYPE html>
-<html lang="pl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Odtwarzacz Muzyki</title>
     <style>
         body {
@@ -40,6 +28,7 @@
             width: 100%;
             border-radius: 10px;
             outline: none;
+            margin-bottom: 20px; /* Added space between audio and button */
         }
         button {
             background-color: #ff5722;
@@ -50,7 +39,6 @@
             border-radius: 5px;
             cursor: pointer;
             transition: background-color 0.3s ease, transform 0.2s ease;
-            margin-top: 20px;
         }
         button:hover {
             background-color: #e64a19;
@@ -69,8 +57,5 @@
         </audio>
         <button onclick="document.getElementById('myAudio').play()">Odtwórz</button>
     </div>
-</body>
-</html>
-
 </body>
 </html>
