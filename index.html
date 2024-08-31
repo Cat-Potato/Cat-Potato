@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Najlepsze Ziemniaki</title>
+    <title></title> <!-- Tytuł będzie dodawany dynamicznie -->
     <style>
         body {
             display: flex;
@@ -28,7 +28,7 @@
             width: 100%;
             border-radius: 10px;
             outline: none;
-            margin-bottom: 20px;
+            margin-bottom: 20px; /* Odstęp między audio a przyciskiem */
         }
         button {
             background-color: #ff5722;
@@ -46,15 +46,41 @@
         button:active {
             transform: scale(0.95);
         }
+        .author {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #ccc;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Odtwarzacz Muzyki</h1>
+        <h1>Najlepsze Ziemniaki</h1>
         <audio id="myAudio" controls>
             <source src="najzie.mp3" type="audio/mpeg">
             Twoja przeglądarka nie obsługuje elementu audio.
         </audio>
+        <button onclick="document.getElementById('myAudio').play()">Odtwórz</button>
+        <div class="author">
+            <p>Autor: Cat Potato</p>
+        </div>
     </div>
+
+    <script>
+        const text = "Ziemniaki najlepsze";
+        let index = 0;
+
+        function typeTitle() {
+            document.title = text.substring(0, index + 1); // Dodaje kolejne litery
+            index++;
+
+            if (index < text.length) {
+                setTimeout(typeTitle, 200); // Opóźnienie 200 ms pomiędzy literami
+            }
+        }
+
+        // Rozpoczęcie animacji po załadowaniu strony
+        window.onload = typeTitle;
+    </script>
 </body>
 </html>
