@@ -10,6 +10,67 @@
         <source src="najzie.mp3" type="audio/mpeg">
         Twoja przeglądarka nie obsługuje elementu audio.
     </audio>
-    <p align="center"><button onclick="document.getElementById('myAudio').play()">Odtwórz</button></p>
+    <p align="center"><button onclick="document.getElementById('myAudio').play()">Odtwórz</button></p><!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odtwarzacz Muzyki</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(to right, #1f4037, #99f2c8);
+            font-family: 'Arial', sans-serif;
+            color: #fff;
+            text-align: center;
+        }
+        .container {
+            background: rgba(0, 0, 0, 0.8);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+            max-width: 400px;
+            width: 100%;
+        }
+        audio {
+            width: 100%;
+            border-radius: 10px;
+            outline: none;
+        }
+        button {
+            background-color: #ff5722;
+            border: none;
+            color: white;
+            padding: 12px 24px;
+            font-size: 18px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #e64a19;
+        }
+        button:active {
+            transform: scale(0.95);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Odtwarzacz Muzyki</h1>
+        <audio id="myAudio" controls>
+            <source src="najzie.mp3" type="audio/mpeg">
+            Twoja przeglądarka nie obsługuje elementu audio.
+        </audio>
+        <button onclick="document.getElementById('myAudio').play()">Odtwórz</button>
+    </div>
+</body>
+</html>
+
 </body>
 </html>
