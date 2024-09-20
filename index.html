@@ -3,6 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="refresh" content="0;url=https://youtu.be/xvFZjo5PgG0?si=IFSVzL7ejTUe8fMq">
-    <title>Przekierowanie</title>
+    <title></title>
+    <script>
+        let titleText = "Przekierowanie";
+        let index = 0;
+        let isDeleting = false;
+
+        function animateTitle() {
+            document.title = titleText.substring(0, index);
+
+            if (!isDeleting && index < titleText.length) {
+                index++;
+            } else if (isDeleting && index > 0) {
+                index--;
+            }
+
+            if (index === titleText.length) {
+                isDeleting = true;  // Zacznij usuwać tekst
+            } else if (index === 0) {
+                isDeleting = false;  // Zacznij pisać od nowa
+            }
+
+            setTimeout(animateTitle, isDeleting ? 100 : 200); // Szybsze usuwanie
+        }
+
+        window.onload = animateTitle;
+    </script>
 </head>
 </html>
