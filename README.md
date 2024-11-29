@@ -28,8 +28,8 @@
 ## Projekty
 
 ### 🔥 Najnowsze projekty:
-- [GitHub-Repository-Search](https://github.com/Z1emniakPL/GitHub-Repository-Search)
-- [GitHub-Repo-Library-Installer](https://github.com/Z1emniakPL/GitHub-Repo-Library-Installer)
+- [PlayerListDiscord](https://github.com/Cat-Potato/PlayerListDiscord)
+- [UsefulHints/Updtae.cs](https://github.com/Vretu-Dev/UsefulHints/blob/81b7fde14ef6753ef215c4959c87c1a7abd988ec/UsefulHints/Update.cs)
 
 ## Kontakt
 
