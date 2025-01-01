@@ -30,7 +30,6 @@
 
 ### 🔥 Najnowsze projekty:
 - [PlayerListDiscord](https://github.com/Cat-Potato/PlayerListDiscord)
-- [UsefulHints/Update.cs](https://github.com/Vretu-Dev/UsefulHints/blob/81b7fde14ef6753ef215c4959c87c1a7abd988ec/UsefulHints/Update.cs)
 
 ## Kontakt
 
