@@ -29,7 +29,7 @@
 ## Projekty
 
 ### 🔥 Najnowsze projekty:
-- [PlayerListDiscord](https://github.com/Cat-Potato/PlayerListDiscord)
+- [PluginList](https://github.com/Cat-Potato/PluginList)
 
 ## Kontakt
 
