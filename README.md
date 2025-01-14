@@ -29,7 +29,7 @@
 ## Projekty
 
 ### 🔥 Najnowsze projekty:
-- [PluginList](https://github.com/Cat-Potato/PluginList)
+- Nic nie ma
 
 ## Kontakt
 
